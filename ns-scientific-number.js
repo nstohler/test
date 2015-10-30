@@ -356,6 +356,6 @@
 	// changed in DUPER
 	// additional change in DUPER
 
-    // WS: adding some text without a branch
+    // WS: adding some text without a branch now
     
 })();
