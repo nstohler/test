@@ -353,6 +353,10 @@
     //    });
     // }]);
 
-    // master edit on gh website
+    function noFun() {
+        return 42;
+    }
+
+    // master edit on gh website (again)
     
 })();
